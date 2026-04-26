@@ -35,17 +35,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📁 Model Download
-
-Due to size limitations, download the trained model from:
-👉 (Add your Google Drive link here)
-
-Place it inside:
-
-```
-model/
-```
-
 ## 🛠️ Tech Stack
 
 * Python
@@ -60,5 +49,3 @@ model/
 * Improve UI/UX
 
 ---
-
-Built with ❤️ using AI
